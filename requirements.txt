@@ -1,0 +1,12 @@
+# API FastAPI
+fastapi==0.142.2
+uvicorn==0.54.0
+
+# Tests
+pytest==9.1.1
+pytest-cov==7.1.0
+httpx==0.28.1
+
+# Qualité du code
+ruff==0.16.10
+
